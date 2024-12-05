@@ -1,3 +1,5 @@
+#Thank you Dale Watt (2018 Summer of Maps Fellow) for providing this code and the accompanying blog post!
+
 #MaxEnt - attempt to create environmental layers
 install.packages("raster")
 install.packages("rgdal")
